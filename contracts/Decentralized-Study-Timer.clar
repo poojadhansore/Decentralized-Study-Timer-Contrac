@@ -1,4 +1,4 @@
-decentralzied-study-timer.clar
+
 ;; Decentralized Study Timer Contract
 ;; Users can log their daily study time on-chain
 

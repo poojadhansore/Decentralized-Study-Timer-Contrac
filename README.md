@@ -61,7 +61,8 @@ The Decentralized Study Timer has tremendous potential for expansion across the 
 
 ## Contract Address
 
-**Testnet Contract Address**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.middle-olive-tiglon`
+**Testnet Contract Address**: 
+`STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.decentralized-study-timer`
 
 ---
 
@@ -149,4 +150,5 @@ The Decentralized Study Timer has tremendous potential for expansion across the 
 
 ---
 
-*Transform your study habits with blockchain accountability. Start building verifiable educational achievements today!*
+*Transform your study habits with blockchain accountability. Start building verifiable educational achievements today!*<img width="719" alt="screenshot (6)" src="https://github.com/user-attachments/assets/1aaf453e-d958-4d25-a2ea-eeba1912e594" />
+
